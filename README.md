@@ -1,2 +1,23 @@
-# spring-java-hellowworld
-A basic hello world Spring app for testing purpose
+# MIT License
+
+**Copyright (c) 2025 Bharat Babbar**
+
+Permission is hereby granted, free of charge, to any individual obtaining a copy of this software and its accompanying documentation (the **“Software”**), to use the Software without restriction. This includes the rights to:
+
+- use  
+- copy  
+- modify  
+- merge  
+- publish  
+- distribute  
+- sublicense  
+- and/or sell copies of the Software  
+
+and to allow others to do the same, subject to the following conditions:
+
+The above copyright notice and this permission notice must be included in all copies or substantial portions of the Software.
+
+---
+
+**Disclaimer:**  
+THE SOFTWARE IS PROVIDED **“AS IS”**, WITHOUT ANY WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
